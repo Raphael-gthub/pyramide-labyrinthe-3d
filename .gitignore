@@ -1,0 +1,6 @@
+# Système
+.DS_Store
+Thumbs.db
+
+# Fichiers exportés par Processing
+application.*/
